@@ -1,0 +1,38 @@
+body{
+    height: 500vh;
+}
+
+section h2{
+
+    font-size: 50px;
+    background-color: grey;
+    height: 55px;
+    width: 100%;
+    top: 0px;
+    color: white;
+    margin-top: 0px;
+}
+
+.first h2{
+    position: sticky;
+    margin-bottom: 0px;
+} 
+
+.second h2{
+    position: sticky;
+    margin-bottom: 0px;
+} 
+.third h2{
+    position: sticky;
+    margin-bottom: 0px;
+}
+
+.fourth h2{
+    position: sticky;
+    margin-bottom: 0px;
+}
+
+.five h2{
+    position: sticky;
+    margin-bottom: 0px;
+}
